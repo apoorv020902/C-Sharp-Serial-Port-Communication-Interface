@@ -1,0 +1,4 @@
+		width		height
+panel 1		1018		410
+groupbox14	513		329
+tBoxDataIN	507		258
